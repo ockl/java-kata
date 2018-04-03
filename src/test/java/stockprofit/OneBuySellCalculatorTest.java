@@ -1,8 +1,11 @@
-package greg;
+package stockprofit;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import stockprofit.OneBuySellCalculator;
+import stockprofit.PublicTrade;
 
 public class OneBuySellCalculatorTest {
 

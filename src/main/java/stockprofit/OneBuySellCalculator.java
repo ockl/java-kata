@@ -1,4 +1,4 @@
-package greg;
+package stockprofit;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

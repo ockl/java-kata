@@ -1,4 +1,4 @@
-package greg;
+package stockprofit;
 
 public class PublicTrade {
 

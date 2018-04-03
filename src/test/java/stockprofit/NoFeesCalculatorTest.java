@@ -1,8 +1,12 @@
-package greg;
+package stockprofit;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import stockprofit.NoFeesCalculator;
+import stockprofit.Order;
+import stockprofit.PublicTrade;
 
 public class NoFeesCalculatorTest {
 

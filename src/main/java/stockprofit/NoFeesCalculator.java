@@ -1,8 +1,8 @@
-package greg;
+package stockprofit;
 
 import java.util.ArrayList;
 
-import greg.Order.BuySell;
+import stockprofit.Order.BuySell;
 
 /**
  * We can place as many orders as we want and we don't need to be concerned
